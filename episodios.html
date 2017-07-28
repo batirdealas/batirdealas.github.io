@@ -1,0 +1,9 @@
+---
+layout: page
+title: Episodios
+---
+{% for episodio in site.episodios %}
+  <div class="episodio">
+    <h2><a href="{{ episodio.url }}">{{ episodio.title }}</a></h2>
+  </div>
+{% endfor %}
