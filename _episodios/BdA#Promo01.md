@@ -4,7 +4,9 @@ title: "BdA#Promo01 Audio Promocional"
 date: 2017-07-28
 author: Edelmiro García Barón
 ---
-Aquí os dejo el primer audio promocional de mi *podcast* ["Batir de Alas"](https://batirdealas.github.io), "La [colombofilia](https://batirdealas.github.io/definiciones/Colombofilia.md) que se escucha"
+Aquí os dejo el primer audio promocional de mi *podcast* ["Batir de Alas"](https://batirdealas.github.io), "La [colombofilia](https://batirdealas.github.io/definiciones/Colombofilia) que se escucha"
 
 
 <iframe src="https://archive.org/embed/PromoBatirDeAlasPodcast" width="340" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+___Volamos pronto!!!___
