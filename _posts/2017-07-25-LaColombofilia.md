@@ -18,6 +18,6 @@ Desde hace muchos años y sigo haciéndolo, dedico gran parte de mi tiempo libre
 
 En la sección [episodios](https://batirdealas.github.io/episodios) encontrarás el episodio donde te hablo de que es la [colombofilia](https://batirdealas.github.io/definiciones/Colombofilia).
 
-Te emplazo a leerme en esta bitácora y escuchar los episodios del *podcast* "Batir de Alas", "la colombofilia que se escucha".
+Te emplazo a leerme en esta bitácora y a escuchar los episodios del *podcast* "Batir de Alas", "la colombofilia que se escucha".
 
 Volamos pronto.
