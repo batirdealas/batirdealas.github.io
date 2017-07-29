@@ -16,7 +16,7 @@ La colombofilia, no es una ciencia. No está basada en reglas o normas inmutable
 Desde hace muchos años y sigo haciéndolo, dedico gran parte de mi tiempo libre a filtrar, agrupar y seleccionar información sobre colombofilia. Todo ello y mis experiencias practicando este fascinante deporte va a ser lo que te ofrezca en esta bitácora. __*Espero que sea de tu agrado y pueda resultarte útil.*__
 
 
-En la sección [episodios](https://batirdealas.github.io/episodios.html) encontrarás el episodio donde te hablo de que es la [colombofilia](https://batirdealas.github.io/definiciones/Colombofilia.md).
+En la sección [episodios](https://batirdealas.github.io/episodios) encontrarás el episodio donde te hablo de que es la [colombofilia](https://batirdealas.github.io/definiciones/Colombofilia).
 
 Te emplazo a leerme en esta bitácora y escuchar los episodios del *podcast* "Batir de Alas", "la colombofilia que se escucha".
 
