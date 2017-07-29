@@ -1,10 +1,33 @@
 ---
 layout: page
 ---
-<div class="definicion">
 
-  <div class="blog-post spacing">
+<article class="definicion">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
     {{ content }}
   </div>
-  <input type="button" onclick="history.back()" name="Volver Atrás" value="Volver Atrás" style="float:right">
-</div>
+
+  <HR>
+
+  <CENTER>
+    <img src="/images/by nc sa.png" height="42">
+  </CENTER>
+
+  <div class="date">
+    {{ page.date | date: "%d-%b-%Y" }}
+    <BR>
+    {{ page.author}}
+  </div>
+
+  <HR>
+
+  <CENTER>
+    {% include  share.html %}
+  </CENTER>
+
+  <HR>
+
+  {% include disqus.html %}
+</article>
