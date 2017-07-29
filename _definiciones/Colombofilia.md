@@ -2,6 +2,7 @@
 layout: definicion
 title: "Colombofilia"
 date: 2017-05-13
+author: Edelmiro García Barón
 ---
 
 <img src="/images/Yo.png">
