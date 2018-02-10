@@ -9,4 +9,6 @@ Aquí os dejo el primer audio promocional de mi *podcast* ["Batir de Alas"](http
 
 <iframe src="https://archive.org/embed/PromoBatirDeAlasPodcast" width="340" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+De fondo se escuchan, "Prop Plane Start" y "Prop Plane Fly", ambas de Youtube Audio Library.
+
 ___Volamos pronto!!!___
