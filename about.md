@@ -4,7 +4,7 @@ title: Acerca
 permalink: /about/
 ---
 
-##Si enciendes una lámpara para alguien más, también alumbrará tu camino.
+__"Si enciendes una lámpara para alguien más, también alumbrará tu camino."__
 
 Bienvenid@s a la bitácora que va a dar soporte escrito al __*podcast*__ "Batir de Alas".
 
