@@ -4,7 +4,7 @@ title: "Alzamos el Vuelo"
 date: 2017-07-26
 author: Edelmiro García Barón
 ---
-<img src="/images/.png" alt="Logo Podcast Batir De Alas" style="max-width:100%;width:auto;height:auto;">
+<img src="/images/Header.jpg" alt="Logo Podcast Batir De Alas con autor." style="max-width:100%;width:auto;height:auto;">
 <Center>Logo Podcast Batir De Alas con autor.</Center>
 <BR>
 
