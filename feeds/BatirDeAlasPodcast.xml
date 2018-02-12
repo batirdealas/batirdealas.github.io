@@ -1,1 +1,30 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<rss
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+	xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+			<title>Batir de Alas></title>
+			<atom:link href="http://https://batirdealas.github.io/fedds/BatirDeAlasPodcast.xml" rel="self" type="application/rss+xml" />
+			<link>https://batirdealas.github.io</link>
+			<description>Podcast sobre el deporte de la Colombofilia. Todo lo que siempre has querido saber y nunca te has atrevido a preguntar.</description>
+			<lastBuildDate>Fri, 09 Feb 2018 15:16:46 +0000</lastBuildDate>
+			<language>es</language>
+			<image>
+				<title>Batir de Alas</title>
+				<url>http://batirdealas.github.io/.jpg</url>
+				<link>https://batirdealas.github.io</link>
+			</image>
+			<itunes:summary>Podcast sobre el deporte de la Colombofilia. Todo lo que siempre has querido saber y nunca te has atrevido a preguntar.</itunes:summary>
+			<itunes:author>Edelmiro García Barón</itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href=">http://batirdealas.github.io/.jpg" />
+			<itunes:owner>
+				<itunes:name>Edelmiro García Barón</itunes:name>
+				<itunes:email>batirdealaspodcast@gmail.com</itunes:email>
+			</itunes:owner>
+			<managingEditor>Edelmiro García Barón</managingEditor>
+			<itunes:subtitle>Todo lo que siempre has querido saber y nunca te has atrevido a preguntar sobre la Colombofilia</itunes:subtitle>
+			<itunes:email>batirdealaspodcast@gmail.com</itunes:email>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:category text="Sports &amp; Recreation" />
+		<item>
