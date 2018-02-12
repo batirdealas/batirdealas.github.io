@@ -4,7 +4,7 @@ title: "Alzamos el Vuelo"
 date: 2017-07-26
 author: Edelmiro García Barón
 ---
-<Center>"/images/Header.jpg"</Center>
+<Center><img src="/images/Header.jpg"></Center>
 <Center>Logo Podcast Batir De Alas con autor.</Center>
 <BR>
 
@@ -17,3 +17,4 @@ Las canciones de la entradilla son "Mad Science" de MK2 y "Thor's Hammer" de Eth
 En la salida podemos escuchar "On my way home" de The 126ers, tambien de YouTube Audio Library.
 
 ___Volamos pronto!!!___
+<img src="/images/BdA1400x1400.png" alt="Logo Podcast Batir De Alas" style="max-width:100%;width:auto;height:auto;">
