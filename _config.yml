@@ -89,6 +89,3 @@ collections:
   definiciones:
     output: true   
     permalink: /definiciones/:path/
-  episodios:
-    output: true
-    permalink: /episodios/:path/
