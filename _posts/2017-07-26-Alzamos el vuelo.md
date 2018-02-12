@@ -5,7 +5,7 @@ date: 2017-07-26
 author: Edelmiro García Barón
 ---
 <Center><img src="/images/Header.jpg" alt="Logo Podcast Batir De Alas" style="max-width:100%;width:auto;height:auto;"></Center>
-<Center>Podcast y autor.</Center>
+<Center>Podcast y autor.</Center> 
 <BR>
 
 Aquí os dejo el episodio piloto de mi *podcast* ["Batir de Alas"](https://batirdealas.github.io), "La [colombofilia](https://batirdealas.github.io/definiciones/Colombofilia) que se escucha"
