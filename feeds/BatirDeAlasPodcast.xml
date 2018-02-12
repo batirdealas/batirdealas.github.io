@@ -11,13 +11,13 @@
 			<language>es</language>
 			<image>
 				<title>Batir de Alas</title>
-				<url>http://batirdealas.github.io/images/BdA1400x1400.png</url>
+				<url>https://batirdealas.github.io/images/BdA1400x1400.png</url>
 				<link>https://batirdealas.github.io</link>
 			</image>
 			<itunes:summary>Podcast sobre el deporte de la Colombofilia. Todo lo que siempre has querido saber y nunca te has atrevido a preguntar.</itunes:summary>
 			<itunes:author>Edelmiro García Barón</itunes:author>
 			<itunes:explicit>clean</itunes:explicit>
-			<itunes:image href=">http://batirdealas.github.io/.jpg" />
+			<itunes:image href="https://batirdealas.github.io/images/BdA1400x1400.png" />
 			<itunes:owner>
 				<itunes:name>Edelmiro García Barón</itunes:name>
 				<itunes:email>batirdealaspodcast@gmail.com</itunes:email>
