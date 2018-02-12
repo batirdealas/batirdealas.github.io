@@ -5,7 +5,7 @@ date: 2017-07-28
 author: Edelmiro García Barón
 ---
 
-<img src="/images/Unidad Colombofila Vital.png" alt="Unidad Colombófila Vital">
+<img src="/image/Unidad Colombofila Vital.png" alt="Unidad Colombófila Vital">
 
 La unidad, es la propiedad que tienen las cosas de no poder dividirse ni fragmentarse sin alterarse o destruirse.
 
