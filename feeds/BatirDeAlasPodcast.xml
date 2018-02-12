@@ -4,7 +4,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
 			<title>Batir de Alas></title>
-			<atom:link href="http://https://batirdealas.github.io/fedds/BatirDeAlasPodcast.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://batirdealas.github.io/fedds/BatirDeAlasPodcast.xml" rel="self" type="application/rss+xml" />
 			<link>https://batirdealas.github.io</link>
 			<description>Podcast sobre el deporte de la Colombofilia. Todo lo que siempre has querido saber y nunca te has atrevido a preguntar.</description>
 			<lastBuildDate>Fri, 09 Feb 2018 15:16:46 +0000</lastBuildDate>
@@ -44,7 +44,7 @@
 		<item>
 			<title><![CDATA[Batir de Alas #0000 Promo del Podcast]]></title>
 			<link>http://www.ivoox.com/batir-alas-0000-promo-del-podcast-audios-mp3_rf_11777120_1.html</link>
-			<enclosure url="http://www.ivoox.com/batir-alas-0000-promo-del-podcast_mf_11777120_feed_1.mp3" type="audio/mpeg"  length="281899"/>
+			<enclosure url="https://ia800407.us.archive.org/6/items/PromoBatirDeAlasPodcast/Promo%20Batir%20de%20Alas%20Podcast.mp3" type="audio/mpeg"  length="281899"/>
 			<description><![CDATA[Audio promocional del Podcast "Batir de Alas".
 			Métodos de contacto:
 			Twitter:                @batirdealas
@@ -53,7 +53,7 @@
 			<pubDate>Sat, 04 Jun 2016 09:03:15 +0200</pubDate>
 			<itunes:duration>00:23</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
-			<guid>http://www.ivoox.com/11777120</guid>
+			<guid>https://batirdealas.github.io/_posts/2017-07-25-Promo.md</guid>
 		</item>
 	</channel>
 </rss>
