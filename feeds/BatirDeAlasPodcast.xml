@@ -28,22 +28,8 @@
 			<itunes:explicit>clean</itunes:explicit>
 			<itunes:category text="Sports &amp; Recreation" />
 		<item>
-			<title><![CDATA[#BdA00000 Episodio Piloto]]></title>
-			<link>http://www.ivoox.com/bda00000-episodio-piloto-audios-mp3_rf_14041238_1.html</link>
-			<enclosure url="http://www.ivoox.com/bda00000-episodio-piloto_mf_14041238_feed_1.mp3" type="audio/mpeg"  length="2183434"/>
-			<description><![CDATA[Episodio Piloto del Podcast "Batir de Alas".
-			Métodos de contacto:
-			Twitter:                @batirdealas
-			Correo:                batirdealaspodcast@gmail.com 
-            			]]></description>
-			<pubDate>Sat, 26 Nov 2016 06:00:59 +0100</pubDate>
-			<itunes:duration>04:02</itunes:duration>
-			<itunes:episodeType>full</itunes:episodeType>
-			<guid>http://www.ivoox.com/14041238</guid>
-		</item>
-		<item>
 			<title><![CDATA[Batir de Alas #0000 Promo del Podcast]]></title>
-			<link>http://www.ivoox.com/batir-alas-0000-promo-del-podcast-audios-mp3_rf_11777120_1.html</link>
+			<link>https://batirdealas.github.io//Promo/</link>
 			<enclosure url="https://ia800407.us.archive.org/6/items/PromoBatirDeAlasPodcast/Promo%20Batir%20de%20Alas%20Podcast.mp3" type="audio/mpeg"  length="281899"/>
 			<description><![CDATA[Audio promocional del Podcast "Batir de Alas".
 			Métodos de contacto:
@@ -53,7 +39,7 @@
 			<pubDate>Sat, 04 Jun 2016 09:03:15 +0200</pubDate>
 			<itunes:duration>00:23</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
-			<guid>https://batirdealas.github.io/_posts/2017-07-25-Promo.md</guid>
+			<guid>https://batirdealas.github.io//Promo</guid>
 		</item>
 	</channel>
 </rss>
