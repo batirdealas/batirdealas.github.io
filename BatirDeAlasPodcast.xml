@@ -32,7 +32,7 @@
 			<link>https://batirdealas.github.io//Promo/</link>
 			<enclosure url="https://ia800407.us.archive.org/6/items/PromoBatirDeAlasPodcast/Promo%20Batir%20de%20Alas%20Podcast.mp3" type="audio/mpeg"  length="281899"/>
 			<description>Hola a tod@s. Aquí os dejo el primer audio promocional de mi podcast "Batir de Alas". La colombofilia que se escucha.</description>
-			<content:encoded><![CDATA[<p>Hola a tod@s. Aquí os dejo el primer audio promocional de mi <b>podcast</b> <a href="https://batirdealas.github.io">"Batir de Alas"</a>. La colombofilia que se escucha."</p>
+			<soundtrack><![CDATA[<p>Hola a tod@s. Aquí os dejo el primer audio promocional de mi <b>podcast</b> <a href="https://batirdealas.github.io">"Batir de Alas"</a>. La colombofilia que se escucha."</p>
 			<img src="/images/BdA1400x1400.png" alt="Logo Podcast Batir De Alas" style="max-width:100%;width:auto;height:auto;">
 			<Center>Logo Podcast Batir De Alas</Center>
 			<BR>
@@ -40,7 +40,7 @@
 			<iframe src="https://archive.org/embed/PromoBatirDeAlasPodcast" width="100%" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 			<p>De fondo se escuchan, "Prop Plane Start" y "Prop Plane Fly", ambas de Youtube Audio Library.</p>
 			<p>Volamos pronto!!!</p>
-			]]></content:encoded>
+			]]></soundtrack>
 			<pubDate>Sat, 04 Jun 2016 09:03:15 +0200</pubDate>
 			<itunes:duration>00:23</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
