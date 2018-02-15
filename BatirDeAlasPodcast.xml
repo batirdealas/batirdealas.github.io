@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+	xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+			<title>Batir de Alas></title>
+			<atom:link href="https://batirdealas.github.io/BatirDeAlasPodcast.xml" rel="self" type="application/rss+xml" />
+			<link>https://batirdealas.github.io</link>
+			<description>Podcast sobre el deporte de la Colombofilia. Todo lo que siempre has querido saber y nunca te has atrevido a preguntar.</description>
+			<lastBuildDate>Fri, 09 Feb 2018 15:16:46 +0000</lastBuildDate>
+			<language>es</language>
+			<image>
+				<title>Batir de Alas</title>
+				<url>https://batirdealas.github.io/images/BdA1400x1400.png</url>
+				<link>https://batirdealas.github.io</link>
+			</image>
+			<itunes:summary>Podcast sobre el deporte de la Colombofilia. Todo lo que siempre has querido saber y nunca te has atrevido a preguntar.</itunes:summary>
+			<itunes:author>Edelmiro García Barón</itunes:author>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:image href="https://batirdealas.github.io/images/BdA1400x1400.png" />
+			<itunes:owner>
+				<itunes:name>Edelmiro García Barón</itunes:name>
+				<itunes:email>batirdealaspodcast@gmail.com</itunes:email>
+			</itunes:owner>
+			<managingEditor>Edelmiro García Barón</managingEditor>
+			<itunes:subtitle>Todo lo que siempre has querido saber y nunca te has atrevido a preguntar sobre la Colombofilia</itunes:subtitle>
+			<itunes:email>batirdealaspodcast@gmail.com</itunes:email>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:category text="Sports &amp; Recreation" />
+		<item>
+			<title><![CDATA[Batir de Alas #0000 Promo del Podcast]]></title>
+			<link>https://batirdealas.github.io//Promo/</link>
+			<enclosure url="https://ia800407.us.archive.org/6/items/PromoBatirDeAlasPodcast/Promo%20Batir%20de%20Alas%20Podcast.mp3" type="audio/mpeg"  length="281899"/>
+			<description>Hola a tod@s. Aquí os dejo el primer audio promocional de mi podcast "Batir de Alas". La colombofilia que se escucha.</description>
+			<content:encoded><![CDATA[<p>Hola a tod@s. Aquí os dejo el primer audio promocional de mi <b>podcast</b> <a href="https://batirdealas.github.io">"Batir de Alas"</a>. La colombofilia que se escucha."</p>
+			<img src="/images/BdA1400x1400.png" alt="Logo Podcast Batir De Alas" style="max-width:100%;width:auto;height:auto;">
+			<Center>Logo Podcast Batir De Alas</Center>
+			<BR>
+			<p>Reproductor de audio:</p>
+			<iframe src="https://archive.org/embed/PromoBatirDeAlasPodcast" width="100%" height="40" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+			<p>De fondo se escuchan, "Prop Plane Start" y "Prop Plane Fly", ambas de Youtube Audio Library.</p>
+			<p>Volamos pronto!!!</p>
+			]]></content:encoded>
+			<pubDate>Sat, 04 Jun 2016 09:03:15 +0200</pubDate>
+			<itunes:duration>00:23</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://batirdealas.github.io//Promo</guid>
+		</item>
+		
+	</channel>
+</rss>
