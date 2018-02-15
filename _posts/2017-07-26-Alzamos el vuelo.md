@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alzamos el Vuelo"
+title: "Alzamos el vuelo"
 date: 2017-07-26
 author: Edelmiro García Barón
 ---
