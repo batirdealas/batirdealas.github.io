@@ -29,9 +29,9 @@
 			<itunes:category text="Sports &amp; Recreation" />
 		<item>
 			<title><![CDATA[Alzamos el vuelo.]]></title>
-			<link>https://batirdealas.github.io///</link>
-			<enclosure url="https://ia800407.us.archive.org/6/items/PromoBatirDeAlasPodcast/Promo%20Batir%20de%20Alas%20Podcast.mp3" type="audio/mpeg"  length="281899"/>
-			<description>Hola a tod@s. Aquí os dejo el primer audio promocional de mi podcast "Batir de Alas". La colombofilia que se escucha.</description>
+			<link>https://batirdealas.github.io//Alzamos el vuelo./</link>
+			<enclosure url="https://ia801500.us.archive.org/27/items/BdA00000EpisodioPiloto/%23BdA00000EpisodioPiloto.mp3" type="audio/mpeg"  length=""/>
+			<description>Hola a tod@s. Aquí os dejo el episodio piloto de mi podcast "Batir de Alas". La colombofilia que se escucha.</description>
 			<content:encoded><![DATA[<p>Hola a tod@s. Aquí os dejo el episodio piloto de mi <b>podcast</b> <a href="https://batirdealas.github.io">"Batir de Alas"</a>. La colombofilia que se escucha.</p>
 			<Center><img src="/images/Header.jpg" alt="Logo Podcast Batir De Alas" style="max-width:100%;width:auto;height:auto;"></Center>
 			<BR>
@@ -41,6 +41,10 @@
 			<p>En la salida podemos escuchar "On my way home" de The 126ers, tambien de YouTube Audio Library.</p>
 			<p>Volamos pronto!!!</p>
 			]]></content:encoded>
+			<pubDate>Sat, 26 Nov 2016 09:03:15 +0200</pubDate>
+			<itunes:duration>:</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid>https://batirdealas.github.io//Alzamos el vuelo</guid>
 		</item>
 		<item>
 			<title><![CDATA[Batir de Alas #0000 Promo del Podcast]]></title>
