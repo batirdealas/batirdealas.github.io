@@ -43,9 +43,7 @@
 			<pic>https://batirdealas.github.io/images/BdA1400x1400.png</pic>
 			<content:encoded>
 			<p>Hola a tod@s. Estoy de pruebas.</p>
-			<br>
-			<a title="Prueba" href="http://www.google.es" target="_blank" rel="noopener noreferrer">Prueba</a>
-			<br>
+			<p><a title="Prueba" href="http://www.google.es" target="_blank" rel="noopener noreferrer">Prueba</a></p>
 			<p>Volamos pronto!!!</p>
 			</content:encoded>
 			<itunes:duration>:</itunes:duration>
