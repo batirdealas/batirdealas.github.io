@@ -41,11 +41,11 @@
 			<enclosure url="https://ia801500.us.archive.org/27/items/BdA00000EpisodioPiloto/%23BdA00000EpisodioPiloto.mp3" type="audio/mpeg"  length=""/>
 			<pubDate>Sat, 26 Nov 2016 09:03:15 +0200</pubDate>
 			<pic>https://batirdealas.github.io/images/BdA1400x1400.png</pic>
-			<content:encoded>
+			<content:encoded><![CDATA[
 			<p>Hola a tod@s. Estoy de pruebas.</p>
 			<p><a title="Prueba" href="http://www.google.es" target="_blank" rel="noopener noreferrer">Prueba</a></p>
 			<p>Volamos pronto!!!</p>
-			</content:encoded>
+			]]></content:encoded>
 			<itunes:duration>:</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
 			<guid>https://batirdealas.github.io//Alzamos-el-vuelo</guid>
