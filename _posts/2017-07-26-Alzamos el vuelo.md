@@ -4,7 +4,7 @@ title: "Alzamos el vuelo"
 date: 2017-07-26
 author: Edelmiro García Barón
 ---
-Hola a tod@s. Aquí os dejo el episodio piloto de mi *podcast* <a href="https://batirdealas.github.io">"Batir de Alas"</a>. La colombofilia que se escucha.
+Hola a tod@s. Aquí os dejo el episodio piloto de mi **podcast** <a href="https://batirdealas.github.io">"Batir de Alas"</a>. La colombofilia que se escucha.
 
 <img src="https://batirdealas.github.io/images/Header.jpg" alt="Logo Podcast Batir De Alas" style="max-width:100%;width:auto;height:auto;">
 
