@@ -13,6 +13,6 @@ permalink: /about/
 <p style="text-align: justify;">Además de la bitácora, tengo el podcast, el correo electrónico, la cuenta de Twitter y el canal público de Telegram.</p>
 <p style="text-align: justify;">Agradezco a la tecnología el hecho de que me hayas abierto las puertas para llegar hasta donde estás; y espero que conmigo entre también el amor que siento por la colombofilia.</p>
 <p style="text-align: justify;">Y a ti, infinitas gracias por tu tiempo, por tu compañía, por estar en el camino de llevar una vida más feliz y consciente, ayudando así a que la la colombofilia sea cada vez mejor.</p>
-<p>Síguenos en Twitter. Nos encontraras como <a title="Twitter de batir de alas."href="https://www.twitter.com/batirdealas">@batirdealas</a></p>
+<p>Síguenos en Twitter. Nos encontraras como <a title="Twitter de batir de alas." href="https://www.twitter.com/batirdealas">@batirdealas</a></p>
 <p>Puedes seguirnos por <a title="Canal público de Telegram" href="https://t.me/BatirDeAlas">Telegram</a></p>
 <p>Aquí tienes nuestro <a title="Correo electrónico" href="mailto:batirdealaspodcast@gmail.com">correo electrónico</a></p>
