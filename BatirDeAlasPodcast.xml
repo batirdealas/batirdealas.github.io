@@ -40,11 +40,15 @@
 			<link>https://batirdealas.github.io//Alzamos-el-vuelo./</link>
 			<enclosure url="https://ia801500.us.archive.org/27/items/BdA00000EpisodioPiloto/%23BdA00000EpisodioPiloto.mp3" type="audio/mpeg"  length=""/>
 			<pubDate>Sat, 26 Nov 2016 09:03:15 +0200</pubDate>
-			<pic>https://batirdealas.github.io/images/BdA1400x1400.png</pic>
 			<content:encoded><![CDATA[
-			<p>Hola a tod@s. Estoy de pruebas.</p>
-			<p><a title="Prueba" href="http://www.google.es" target="_blank" rel="noopener noreferrer">Prueba</a></p>
-			<p>Volamos pronto!!!</p>
+			<p style="text-align: justify;">Hola a tod@s. Aquí os dejo el episodio piloto de mi <strong>podcast</strong> <a href="https://batirdealas.github.io">"Batir de Alas"</a>. La colombofilia que se escucha.</p>
+			<p><img style="max-width: 100%; width: auto; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://batirdealas.github.io//images/Header.jpg" alt="Podcast y Autor" /></p>
+			<p>&nbsp;</p>
+			<p>Reproductor de audio:</p>
+			<p><iframe src="https://archive.org/embed/BdA00000EpisodioPiloto" width="100%" height="40" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+			<p style="text-align: justify;">Las canciones de la entradilla son "Mad Science" de MK2 y "Thor's Hammer" de Ethan Meixsell ambas de YouTube Audio Library.</p>
+			<p style="text-align: justify;">En la salida podemos escuchar "On my way home" de The 126ers, tambien de YouTube Audio Library.</p>
+			<p >Volamos pronto!!!</p>
 			]]></content:encoded>
 			<itunes:duration>:</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
