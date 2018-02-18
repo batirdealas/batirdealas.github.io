@@ -14,6 +14,6 @@ Reproductor de audio:
 <p><iframe src="https://archive.org/embed/BdA00000EpisodioPiloto" width="100%" height="40" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 Las canciones de la entradilla son "Mad Science" de MK2 y "Thor's Hammer" de Ethan Meixsell ambas de YouTube Audio Library.
 
-En la salida podemos escuchar "On my way home" de The 126ers, tambien de YouTube Audio Library.
+En la salida podemos escuchar "On my way home" de The 126ers, también de YouTube Audio Library.
 
 Volamos pronto!!!
