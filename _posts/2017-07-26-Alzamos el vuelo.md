@@ -5,6 +5,7 @@ date: 2017-07-26
 author: Edelmiro García Barón
 ---
 <p style="text-align: justify;">Hola a tod@s. Aqu&iacute; os dejo el episodio piloto de mi <strong>podcast</strong> <a href="https://batirdealas.github.io">"Batir de Alas"</a>. La colombofilia que se escucha.</p>
+<p>&nbsp;</p>
 <p><img style="max-width: 100%; width: auto; height: auto; display: block; margin-left: auto; margin-right: auto;" src="https://batirdealas.github.io//images/Header.jpg" alt="Podcast y Autor" /></p>
 <p>&nbsp;</p>
 <p>Reproductor de audio:</p>
