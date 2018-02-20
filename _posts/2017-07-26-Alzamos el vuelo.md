@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alzamos el vuelo"
-date: 2017-07-26
+date: 2016-11-26
 author: Edelmiro García Barón
 ---
 Hola a tod@s. Aquí os dejo el episodio piloto de mi **podcast** <a href="https://batirdealas.github.io">"Batir de Alas"</a>.
