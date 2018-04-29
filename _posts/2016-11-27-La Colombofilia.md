@@ -8,7 +8,7 @@ Hola a tod@s. Aquí os dejo un nuevo episodio de mi **podcast** <a href="https:/
 
 La colombofilia que se escucha.
 
-<img src="https://batirdealas.github.io/images/caratulas/LaColombofilia.png" alt="Logo Podcast Batir De Alas" style="max-width:100%;width:auto;height:auto;">
+<img src="https://batirdealas.github.io/images/caratulas/LaColombofilia.png" alt="Caratula Episodio La Colombofilia" style="max-width:100%;width:auto;height:auto;">
 
 Reproductor de audio:
 <iframe 
