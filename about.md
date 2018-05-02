@@ -16,3 +16,4 @@ permalink: /about/
 <p>Síguenos en Twitter. Nos encontraras como <a title="Twitter de batir de alas." href="https://www.twitter.com/batirdealas">@batirdealas</a></p>
 <p>Puedes seguirnos por <a title="Canal público de Telegram" href="https://t.me/BatirDeAlas">Telegram</a></p>
 <p>Aquí tienes nuestro <a title="Correo electrónico" href="mailto:batirdealaspodcast@gmail.com">correo electrónico</a></p>
+<p>Nos encontrarás en <a title="Podcast en Ivoox" href="https://www.ivoox.com/podcast-batir-alas_sq_f1292488_1.html">Ivoox</a></p>
